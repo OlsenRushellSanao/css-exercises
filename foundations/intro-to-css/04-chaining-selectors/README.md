@@ -9,13 +9,15 @@ We have two images for you to style, each with two class names, where one of the
 
 The properties you need to add to each element are:
 
-- Make the element with both the `avatar` and `proportioned` classes 300 pixels wide. We want it to automatically retain its original square proportions, so don't hardcode in a pixel value for its height.
-- Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
+- Make the element with both the `avatar` and `proportioned` classes 300 pixels wide. We want it to automatically retain its original square proportions, so don't hardcode in a pixel value for its height. DONE
+- Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value). DONE
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you properly chain class selectors for each rule?
-- Does the `proportioned` image retain its original square proportions?
-- Does the `distorted` image end up looking squished and, well, distorted?
+- Did you properly chain class selectors for each rule? YUH
+- Does the `proportioned` image retain its original square proportions? YUH
+- Does the `distorted` image end up looking squished and, well, distorted? YUH
+
+DONE DONE DONE BITCH
