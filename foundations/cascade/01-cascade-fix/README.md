@@ -14,5 +14,7 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ### Self Check
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? YUH
+- If you added selectors to the CSS, do they target a valid HTML element? I did not add anything... but I think my work is exactly the desired outcome
+
+COMPLETE i think... but the outcome looks like the desired outcome anyway
